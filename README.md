@@ -1,4 +1,5 @@
 Hey, I'm Daniel 👋
+
 Lawyer × Builder × AI & Web3 Enthusiast
 I'm a Peruvian lawyer turned tech entrepreneur based in Lima. I build at the intersection of law, artificial intelligence, and blockchain — bridging the gap between regulation and innovation.
 
@@ -16,10 +17,10 @@ Backend            →  Node.js, Python, PostgreSQL
 Tools              →  Claude Code, Cursor, Git, Vercel
 🎓 Background
 
-🎓 Abogado colegiado — CALN N°2616
+🎓 Abogado colegiado
 🇨🇭 International Summer School 2024 (SUPSI, Lugano) — Blockchain & ESG, half-scholarship
 🏆 CSR & ESG meets Blockchain Awards 2024 participant
-📢 Speaker — BNB Chain ecosystem (UTEC, Lima)
+📢 Speaker
 
 📊 GitHub Stats
 <p align="center">
