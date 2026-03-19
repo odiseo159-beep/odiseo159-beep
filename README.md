@@ -6,20 +6,33 @@ I'm a Peruvian lawyer turned tech entrepreneur based in Lima. I build at the int
 🔧 What I'm building
 
 🏢 SimplifAI — AI-powered automation company. From legal transcription to intelligent business solutions.
+
 🎨 Enchart Studio — Creative & digital marketing studio. Co-founder.
+
 🪙 LifeofCEO ($CEO) — Interactive 3D office experience on Base blockchain where AI workers handle crypto workflows.
 
+
 🧠 What I work with
+
 AI / LLMs          →  Claude, GPT, Vibe Coding, AI Agents
+
 Blockchain         →  Solidity, Base, BNB Chain (opBNB, Greenfield)
+
 Frontend           →  TypeScript, React, Next.js, Tailwind CSS
+
 Backend            →  Node.js, Python, PostgreSQL
+
 Tools              →  Claude Code, Cursor, Git, Vercel
+
 🎓 Background
 
+
 🎓 Abogado colegiado
+
 🇨🇭 International Summer School 2024 (SUPSI, Lugano) — Blockchain & ESG, half-scholarship
+
 🏆 CSR & ESG meets Blockchain Awards 2024 participant
+
 📢 Speaker
 
 📊 GitHub Stats
