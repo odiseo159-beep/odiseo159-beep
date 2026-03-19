@@ -9,9 +9,6 @@ I'm a Peruvian lawyer turned tech entrepreneur based in Lima. I build at the int
 
 🎨 Enchart Studio — Creative & digital marketing studio. Co-founder.
 
-🪙 LifeofCEO ($CEO) — Interactive 3D office experience on Base blockchain where AI workers handle crypto workflows.
-
-
 🧠 What I work with
 
 AI / LLMs          →  Claude, GPT, Vibe Coding, AI Agents
