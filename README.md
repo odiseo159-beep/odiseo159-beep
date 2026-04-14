@@ -1,36 +1,25 @@
-Hey, I'm Daniel 👋
+Hey, I'm Daniel
 
 Lawyer × Builder × AI & Web3 Enthusiast
 I'm a Peruvian lawyer turned tech entrepreneur based in Lima. I build at the intersection of law, artificial intelligence, and blockchain — bridging the gap between regulation and innovation.
 
-🔧 What I'm building
+What I'm building
 
-🏢 SimplifAI — AI-powered automation company. From legal transcription to intelligent business solutions.
+  ├SimplifAI — AI-powered automation company. From legal transcription to intelligent business solutions.
+  ├Enchart Studio — Creative & digital marketing studio. Co-founder.
 
-🎨 Enchart Studio — Creative & digital marketing studio. Co-founder.
+What I work with
 
-🧠 What I work with
+  AI / LLMs          →  Claude, GPT, Vibe Coding, AI Agents
+  Blockchain         →  Solidity, Base, BNB Chain (opBNB, Greenfield)
+  Frontend           →  TypeScript, React, Next.js, Tailwind CSS
+  Backend            →  Node.js, Python, PostgreSQL
+  Tools              →  Claude Code, Cursor, Git, Vercel
 
-AI / LLMs          →  Claude, GPT, Vibe Coding, AI Agents
-
-Blockchain         →  Solidity, Base, BNB Chain (opBNB, Greenfield)
-
-Frontend           →  TypeScript, React, Next.js, Tailwind CSS
-
-Backend            →  Node.js, Python, PostgreSQL
-
-Tools              →  Claude Code, Cursor, Git, Vercel
-
-🎓 Background
-
-
-🎓 Abogado colegiado
-
-🇨🇭 International Summer School 2024 (SUPSI, Lugano) — Blockchain & ESG, half-scholarship
-
-🏆 CSR & ESG meets Blockchain Awards 2024 participant
-
-📢 Speaker
+Background
+  ├Abogado colegiado
+  ├CSR & ESG meets Blockchain Awards 2024 participant
+  ├Speaker
 
 📊 GitHub Stats
 <p align="center">
