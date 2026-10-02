@@ -40,3 +40,4 @@ Background
 ---
 
 <sub>Mergit: my GitHub account <code>odiseo159-beep</code> is claimed by <code>0x23E8541dA96158d342477D694274E27639807686</code> on GIWA Chain. Verifiable at <a href="https://www.mergit.xyz">mergit.xyz</a>.</sub>
+![Mergit](https://www.mergit.xyz/badge/odiseo159-beep.svg)
